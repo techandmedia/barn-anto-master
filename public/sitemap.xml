@@ -3,39 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://barn-anto.netlify.com/posts/thirdpost/</loc>
+    <loc>/posts/fourthpost/</loc>
+    <lastmod>2018-03-08T18:03:20+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/thirdpost/</loc>
     <lastmod>2018-03-08T16:30:33+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/posts/secondpost/</loc>
+    <loc>/posts/secondpost/</loc>
     <lastmod>2018-03-08T15:48:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/posts/firstpost/</loc>
+    <loc>/posts/firstpost/</loc>
     <lastmod>2018-03-08T15:39:26+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/</loc>
-    <lastmod>2018-03-08T16:30:33+07:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-03-08T18:03:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/posts/</loc>
-    <lastmod>2018-03-08T16:30:33+07:00</lastmod>
+    <loc>/posts/</loc>
+    <lastmod>2018-03-08T18:03:20+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://barn-anto.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

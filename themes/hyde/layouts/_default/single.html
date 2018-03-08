@@ -1,4 +1,4 @@
-{{ define "main" -}}
+ {{ define "main" -}}
 <div class="post">
   <h1>{{ .Title }}</h1>
   <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
@@ -7,6 +7,4 @@
 
 {{ if .Site.DisqusShortname -}}
 <h2>Comments</h2>
-{{ template "_internal/disqus.html" . }}
-{{- end }}
-{{- end }}
+{{ template "_internal/disqus.html" . }} {{- end }} {{- end }}

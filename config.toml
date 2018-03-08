@@ -1,6 +1,7 @@
 baseURL = "https://barn-anto.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Eko Andri - Internship Assignment Blog"
+# author = "Andri"
 
 theme = "hyde"
 
